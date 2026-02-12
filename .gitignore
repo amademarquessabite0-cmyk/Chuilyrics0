@@ -1,2 +1,17 @@
+index.html
 <DOCTYPE html>
-<html 
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Chuilyrics — Letras</title>
+  <meta name="description" content="Chuilyrics — colecione e pesquise letras de músicas.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Chuilyrics</h1>
+      <p class="tagline">Encontre letras, salve seus favoritos.</p>
+    </div>
+  </head>
